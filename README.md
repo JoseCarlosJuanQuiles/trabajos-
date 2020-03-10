@@ -7,4 +7,4 @@ https://josecarlosjuanquiles.github.io/3/
 
 2 trim
 
-file:///Users/josecarlos/Desktop/INFORMATICA/5/animal.html
+
