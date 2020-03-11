@@ -13,3 +13,4 @@ https://josecarlosjuanquiles.github.io/mondrian-personal./
 
 https://josecarlosjuanquiles.github.io/portfolio/
 
+https://josecarlosjuanquiles.github.io/lapiz/
